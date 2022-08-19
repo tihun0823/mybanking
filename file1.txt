@@ -1,1 +1,6 @@
+
+You have some taints on the node which is stopping the scheduler from deploying the pod.Either remove the taint from master node or add tolerations in the pod spec.
+
+
 hello testing file
+
